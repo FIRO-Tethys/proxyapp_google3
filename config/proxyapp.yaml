@@ -1,0 +1,7 @@
+app_name: "google3"
+description: "This is a test proxy app "
+endpoint: "https://google.com"
+logo_url: ""
+tags: "trst,conda_channel_firotethys,conda_labels_main,app_version_1.0"
+enabled: True
+show_in_apps_library: True
