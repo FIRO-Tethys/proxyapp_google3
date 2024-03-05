@@ -1,0 +1,11 @@
+version: 1.0
+name: proxyapp_google3
+
+requirements:
+  skip: false
+  conda:
+    channels:
+    packages:
+  pip:
+
+post:
